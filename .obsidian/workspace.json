@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "9a1ac0e5e770edd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b55bf2812b43576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0905ead541d61366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2731ca9b2fe7fed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsiaian安装与配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc42b5807a87f9e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e64f5558528e81e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b19b4543129c8c4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdee31ea8cc49597",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edf1e8663b39b00c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cce07c0bd0c58ab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "03ea24c4b5d89e14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ee0a385332dd473",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsiaian安装与配置.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa0b03625c6ea6a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsiaian安装与配置.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19792887a005be94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "86ea49a75d490cf9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsiaian安装与配置.md"
+              }
+            }
+          },
+          {
+            "id": "157dec5cbe162d2d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal all": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2731ca9b2fe7fed3",
+  "lastOpenFiles": [
+    "README.md",
+    "2023-03-18.md",
+    "Obsiaian安装与配置.md"
+  ]
+}
